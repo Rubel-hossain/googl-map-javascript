@@ -91,7 +91,9 @@ We Can Found Different Google Maps Showing Animated Marker Or Location Indicator
 not worry it's too easy, just adding the below line to the Market Method.
 
 ```javascript
+
 animation:google.maps.Animation.BOUNCE
+
 ```
 There Are Two Type of animation effects drop and bounce.
 For Better Understing Given The Total Marker Method below.......
